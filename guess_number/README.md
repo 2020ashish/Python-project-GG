@@ -21,3 +21,9 @@ Enter guess number : 9
 Your guessed too high!
 Enter guess number : 8
 Wow ! You guessed the correct number
+
+## Setup
+Clone the repository and run the game e.g., `python guess_a_number.py`.
+
+## Source
+Inspired by [Python Projects - Beginner to Advanced](https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/) on GeeksforGeeks.
